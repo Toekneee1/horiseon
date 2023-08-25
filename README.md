@@ -7,7 +7,7 @@
 
 ## Usage
 
-- ![alt text](02-Challenge\Assets\01-html-css-git-homework-demo.png)
+- ![Horiseon website](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
